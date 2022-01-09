@@ -5,7 +5,7 @@ description = ""
 authors = ["Alex <alex.mon1989@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.8.2"
 fastapi = "^0.71.0"
 uvicorn = "^0.16.0"
 pyminizip = "^0.2.6"
