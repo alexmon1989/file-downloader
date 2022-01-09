@@ -7,6 +7,10 @@ import os
 import time
 
 app = FastAPI()
+
+if not os.path.exists('files'):
+    os.mkdir('files')
+
 app.mount("/files", StaticFiles(directory="files"), name="files")
 
 
