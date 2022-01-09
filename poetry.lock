@@ -150,8 +150,8 @@ standard = ["httptools (>=0.2.0,<0.4.0)", "watchgod (>=0.6)", "python-dotenv (>=
 
 [metadata]
 lock-version = "1.1"
-python-versions = "^3.8"
-content-hash = "9e4399dc60ba4aaddb175ac202b81be1d1f3f44c5ecd4fa4d96a20a59233b699"
+python-versions = "^3.8.2"
+content-hash = "c1b8fb99afb98c76b8899b412d73048949b5026fe008e39344063ed14f7c3056"
 
 [metadata.files]
 anyio = [
